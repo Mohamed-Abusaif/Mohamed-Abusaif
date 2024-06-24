@@ -7,10 +7,10 @@
 
 - 🌱 I’m currently learning **Fundamentals of System Design and Architecture - Advanced Database Engineering - Business Analysis**
 
-- 📝 I regularly write articles on [https://mohamedabusaif.hashnode.dev/](https://mohamedabusaif.hashnode.dev/)
-
 - 💬 Ask me about **Back-End Engineering - Database Design and Implementation - Front-End Development**
-
+  
+- 📝 I regularly write articles on [https://mohamedabusaif.hashnode.dev/](https://mohamedabusaif.hashnode.dev/)
+  
 - 📫 How to reach me **mohamedabusaif50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
