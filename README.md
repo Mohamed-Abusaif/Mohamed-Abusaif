@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-abusaif&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-abusaif" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sibylhacker" target="blank"><img src="https://img.shields.io/twitter/follow/sibylhacker?logo=twitter&style=for-the-badge" alt="sibylhacker" /></a> </p>
-
 - 🌱 I’m currently learning **Fundamentals of System Design and Architecture - Advanced Database Engineering - Business Analysis**
 
 - 💬 Ask me about **Back-End Engineering - Database Design and Implementation - Front-End Development**
