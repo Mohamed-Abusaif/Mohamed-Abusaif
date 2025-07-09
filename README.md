@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abusaif</h1>
-<h3 align="center">Software Engineer and Back-End Developer</h3>
+<h3 align="center">Software Engineer and Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-abusaif&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-abusaif" /> </p>
 
-- 🌱 I’m currently learning **Fundamentals of System Design and Architecture - Advanced Database Engineering - Business Analysis**
-
-- 💬 Ask me about **Back-End Engineering - Database Design and Implementation - Front-End Development**
+- 💬 Ask me about **Software Engineering - System Design - Business Solutions**
   
 - 📝 I regularly write articles on [https://mohamedabusaif.hashnode.dev/](https://mohamedabusaif.hashnode.dev/)
   
